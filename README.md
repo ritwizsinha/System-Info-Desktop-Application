@@ -1,2 +1,2 @@
 # System-Info-Desktop-Application
-application.png
+![The application](application.png)
